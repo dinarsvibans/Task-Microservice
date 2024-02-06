@@ -27,4 +27,4 @@ To get started with the project, follow these steps:
 2. **Data Input and Output Formats**: Enhanced service to support multiple input and output formats.
 3. **Automated Testing**: Added JEST automated tests for the service.
 4. **ESLint Integration**: Integrated ESLint for static code analysis and formatting.
-5. **Web Form Visualization**: Developed a WEB application for visualizing search form using [Vue.js](https://vuejs.org/).
+5. **Web Form Visualization**: Developed a WEB application for visualizing using REACT.
